@@ -23,7 +23,7 @@ This is a customer retention project completed during the PwC Virtual Internship
 
 ## Files in This Project
 
-- `Customer-Retention.pbix` – Power BI dashboard
+- `Churn-Analysis.pbix` – Power BI dashboard
 - `Churn-Data.xlsx` – Dataset used for analysis
 - `Insights.pdf` – Full explanation of insights
 - `Screenshots` – Dashboard image previews
